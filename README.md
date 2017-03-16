@@ -1,1 +1,1 @@
-# ObserverDemo
+#观察者模式（ObserverPattern）
